@@ -1,6 +1,3 @@
-برای نوشتن یک `README.md` کاملاً به زبان انگلیسی، اینجا یک نسخه کامل و مرتب برای پروژه شما آورده شده است:
-
-
 # Text Correction and OCR Processing
 
 ## Project Overview
